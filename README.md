@@ -42,23 +42,6 @@ The project analyzes patients, doctors, appointments, departments, medical recor
 * ORDER BY
 * GROUP BY
 * HAVING
-* INNER JOIN
-* LEFT JOIN
-* Aggregate Functions
-* CASE Statements
-* Subqueries
-* CTEs
-* Window Functions
-
-## 📊 Sample Questions
-
-1. Which doctor has the most appointments?
-2. Which department has the highest number of patients?
-3. What is the total hospital revenue?
-4. Which patients have multiple appointments?
-5. What is the average billing amount?
-6. Which patients have outstanding bills?
-7. What are the most frequently prescribed medicines?
 
 ## 📁 Project Structure
 
